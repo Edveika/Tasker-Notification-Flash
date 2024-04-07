@@ -30,6 +30,9 @@ git clone git@github.com:Edveika/Tasker-Notification-Flash.git
 
 6. Click the save icon at the top
 
+# ⚠️ Disclaimer
+
+Some Android ROMs will close Tasker while its running in the background. Learn how to fix it [here.](https://dontkillmyapp.com/)
 
 # 📜 License
 
