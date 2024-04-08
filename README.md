@@ -13,7 +13,7 @@ Profiles for Tasker that make your flashlight flash on incoming notifications. T
 1. Git clone this repo
 
 ```
-git clone git@github.com:Edveika/Tasker-Notification-Flash.git
+git clone https://github.com/Edveika/Tasker-Notification-Flash.git
 ```
 
 2. Upload the `FlashOnNotification` folder to your phone
